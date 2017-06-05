@@ -30,7 +30,7 @@ class Home extends React.Component {
 
     return (
       <div>
-        <h3>You should be seeing the subscription in the button above</h3>
+        <h3>List of messages</h3>
         <ul>
           {data.messages.map(({id, text}) => (
             <li key={id}>{text}</li>
