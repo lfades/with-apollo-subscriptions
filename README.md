@@ -2,12 +2,7 @@
 
 ## How to use
 
-Download the example or clone the repo:
-
-```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/master | tar -xz --strip=2 next.js-master/examples/with-apollo
-cd with-apollo
-```
+Download the example or clone the repo.
 
 Install it and run:
 
